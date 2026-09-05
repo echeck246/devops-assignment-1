@@ -7,3 +7,9 @@ logs/*.log
 *~
 .DS_Store
 Thumbs.db
+
+# Sibling assignment repositories when developed locally in workspace
+devops-assignment-2/
+devops-assignment-3/
+assignment-2/
+assignment-3/
