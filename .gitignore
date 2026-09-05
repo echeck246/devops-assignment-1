@@ -1,0 +1,9 @@
+# Ignore log output files but keep the logs directory structure
+logs/*.log
+
+# Temporary and editor files
+*.swp
+*.tmp
+*~
+.DS_Store
+Thumbs.db
